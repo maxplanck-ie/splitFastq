@@ -1,0 +1,2 @@
+#!/bin/bash
+make install CC=$CC CFLAGS="$CFLAGS" LDFLAGS="$LDFLAGS" PREFIX=$PREFIX
